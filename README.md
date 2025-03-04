@@ -55,7 +55,7 @@ Code: [EmbodiedAgent](https://github.com/HaronW/EmbodiedAgent)
 
 Dataset: [MultiPlan+](https://github.com/HaronW/MultiPlan_plus)
 
-Model weight: [LLaMA-3.1-8B-Multiplan_Plus_NAP](https://huggingface.co/HaronW/LLaMA-3.1-8B-Multiplan_Plus_NAP)
+Model weight: [EmbodiedAgent](https://huggingface.co/HaronW/EmbodiedAgent)
 
 
 
