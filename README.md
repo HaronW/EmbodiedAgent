@@ -1,6 +1,6 @@
 # EmbodiedAgent
 Code and dataset release for paper: *EmbodiedAgent: A Scalable Hierarchical Approach to Overcome Practical Challenge in Multi-Robot Control*
-
+EmbodiedAgent is accepted by IROS 2025! :)
 ![figure](./figure.png)
 
 
